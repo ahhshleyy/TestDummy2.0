@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestDummy2.0</string>
+    <string name="welcome_label_text">Welcome! Please press a button:</string>
+    <string name="question_button_text">Question Activity</string>
+    <string name="picture_button_text">Picture Activiity</string>
+
+</resources>
